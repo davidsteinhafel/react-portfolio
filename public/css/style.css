@@ -1,0 +1,76 @@
+
+body{
+    background-image: url(https://assets.visitmilwaukee.org/visitmke/media/global/General%20Images/Gallery%20Size/VM-Milwaukee-Skyline-Drone1.jpg?ext=.jpg&mode=crop&width=1920&height=1080&scale=both);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+}
+h2{
+    color: whitesmoke;
+    border-color: black;
+    text-align: center center;
+    font-size: relative;
+    font-size: 5vw;
+}
+p{
+    font-size: 3vw;
+    font-size: relative;
+}
+.far{
+    color: white;
+    padding-top: 12px;
+}
+.fas{
+    color: white;
+    padding-top: 12px;
+}
+/* .card{
+    align-items: center;
+    color: whitesmoke;
+    text-align: center;
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+.card-body{
+    background-color: #343A40;
+    border-radius: 30px;
+    align-items: center;
+    text-align: center;
+
+} */
+.carousel-inner img{
+    width: 50%;
+    height:50%;
+}
+.carousel-item{
+    position: relative;
+    text-align: center;
+    justify-items: stretch;
+}
+.home-slide{
+    position: relative;
+    text-align: center;
+    object-position: bottom;
+}
+#abPic{
+    width: 100%;
+    block-size: 20%;
+    flex-shrink: unset;
+}
+.abText{
+    position: absolute; left: 53%;
+    position: relative;
+    height: 250px;
+	width: 40%;
+	min-width: 200px;
+    background: ivory;
+   
+}
+	
